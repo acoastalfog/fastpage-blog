@@ -4,7 +4,7 @@
         "post0": {
             "title": "Rebooting anthonycosta.net, and Greetings from Taiwan!",
             "content": "If you’re familiar with me, it’s probably not because of my website. It was pretty terrible. I built it almost a decade ago while I was still a graduate student as not much more than a publicly-facing CV; quickly though, as my career advanced, I found it daunting to keep my record of academic work up to date on every platform that was expected. My website was at the absolute bottom of the list, and so never got updated. A website is a great place to actually talk about what you are doing, and so I have been meaning to figure out what to do with it. . I’ve been here in Taiwan on a mini-sabbatical trip working with MeDA Lab, especially our joint students and collaborations with AISINAI, which has afforded me some time to rethink my public presence. So I’m re-launching my website with a mostly blog-like format and a simple about me page that links to the various places you can get information about me, including my up to date CV. . . While this won’t solve the problem of the overwhelming manual annotation of one’s academic output, it cuts it down a bit, and provides a platform I will use to post to Twitter and LinkedIn. I hope to use this to spend some time discussing recent developments at Sinai BioDesign and AISINAI, and maybe document some fun side projects along the way. Also props to the template used here from fast.ai, which makes this ridiculously easy. I’m looking forward to blogging using Jupyter notebooks. . Cheers, Anthony .",
-            "url": "https://acoastalfog.github.io/fastpage-blog/about/blog/taiwan/2020/01/27/reboot.html",
+            "url": "https://anthonycosta.net/about/blog/taiwan/2020/01/27/reboot.html",
             "relUrl": "/about/blog/taiwan/2020/01/27/reboot.html",
             "date": " • Jan 27, 2020"
         }
@@ -19,7 +19,7 @@
       ,"page1": {
           "title": "About Me",
           "content": "I’m interested in needs-driven healthcare technology innovation. I’ve married my background in scientific computing, modeling, and machine learning with multidisciplinary efforts in entrepreneurship and medicine to lead groups at the Mount Sinai Health System in clinical device innovation (Sinai BioDesign) and artificial intelligence (AISINAI). . I serve as the Director of Sinai BioDesign where we implement a needs-driven approach to technology innovation within the Mount Sinai Health System. We focus on early-stage medical device and software development, working directly with physicains and researchers to turn their needs and ideas into commercially-viable inventions. While our home is the Department of Neurosurgery, we work system-wide on a large portfolio of medical technologies. Importantly, we support the culture of innovation at Mount Sinai with the graduate and medical schools through biodesign fellowships, curricula, and student mentorship. . I serve as COO at AISINAI, a research group made up of faculty, physicians, trainees, and students, dedicated to improving medicine through advancements in machine intelligence. I am privileged to work with Director Eric K. Oermann and our entire team as we strive to: . Understand the basis of intelligence – both artificial and human, | Make healthcare safer, smarter, and more efficient, and | To advance artificial intelligence research. | . Through the program, we train physician software engineers (MD-SWEs) to tackle the hardest problems at the intersection of mathematics, neuroscience, and medicine using the armament of modern machine learning tools. . Curriculum Vitae . You can download my reasonably up to date CV here. I generally try not maintain duplicate copies of publications, patents, or other activities in other places/formats, so you won’t see those listed here. Please refer to my CV for this information. My Google Scholar profile is also a good source of up to date publication information. Occasionally I’m active on Twitter, a link to which is available in the footer of this website and here. .",
-          "url": "https://acoastalfog.github.io/fastpage-blog/about/",
+          "url": "https://anthonycosta.net/about/",
           "relUrl": "/about/",
           "date": ""
       }
@@ -51,7 +51,7 @@
       ,"page10": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
-          "url": "https://acoastalfog.github.io/fastpage-blog/robots.txt",
+          "url": "https://anthonycosta.net/robots.txt",
           "relUrl": "/robots.txt",
           "date": ""
       }

@@ -1,1 +1,1 @@
-Sitemap: https://acoastalfog.github.io/fastpage-blog/sitemap.xml
+Sitemap: https://anthonycosta.net/sitemap.xml
