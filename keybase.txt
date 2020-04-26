@@ -1,0 +1,88 @@
+==================================================================
+https://keybase.io/acoastalfog
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://anthonycosta.net
+  * I am acoastalfog (https://keybase.io/acoastalfog) on keybase.
+  * I have a public key with fingerprint 77FB 877D 7E64 F351 8C38  4416 00BD 8123 F43D EC22
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010172c098702f41a6ce9157a0f3063e5871a1d65ddae7dc9d77538aad1d8331fce30a",
+      "fingerprint": "77fb877d7e64f3518c38441600bd8123f43dec22",
+      "host": "keybase.io",
+      "key_id": "00bd8123f43dec22",
+      "kid": "010172c098702f41a6ce9157a0f3063e5871a1d65ddae7dc9d77538aad1d8331fce30a",
+      "uid": "6586a4798742d9d73a3f2edcc8272a19",
+      "username": "acoastalfog"
+    },
+    "merkle_root": {
+      "ctime": 1587938192,
+      "hash_meta": "db8731369dada2ec8cf9481baacc9b8f4524b1556be25691f1a9b473ed531c00",
+      "seqno": 16063110
+    },
+    "revoke": {
+      "sig_ids": [
+        "1ac7fdb398a104c43c827f801bb3824ab1a26c34766feacf4cd50efadb9c0fb60f"
+      ]
+    },
+    "service": {
+      "hostname": "anthonycosta.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1587938225,
+  "expire_in": 157680000,
+  "prev": "502a11fc64ecda92710a54ec19a4fff5475a371a2c1d70852a64d25bbff69326",
+  "seqno": 31,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMPZAnicrVNrUFVVGL2EIJIoSZKVRhzxMXqTs88+z1uNIw1IvsrCB0nc9tkPOIH3
+XM49EIoX8xE6kAxEypiOzfhIYkYTLV+NZr7RnGm0sjQ1rHGGioFGRkqsaR/LaZr+
+tv/s1/rWt7717X08KdaXGOM7tGx079M/CzFnj1aX+wrfi22rEkybLBICVUIJvTvR
+UkIjbrDEIkJAEIEINAmLhq6JEpMBUjE1gKIhkUFRhVTRNYAAURVCENUINoimKVBH
+iACiQwgYplBEgl9gVqiIOmHHCrmcVtOYqWsa0agqM6gAHUNdloEqiibRgQSZDAnF
+ksQDi+2IF8HFmShCJ1k2P+Ob4F/y/ov/n3WX36VTFV1FssbZZIlwLESQSZRgrEua
+hIDhASPUCaGFlKMRtlHERaXMLhKifmEhdUpKadCxbdfzF7uWhwJcggF1YEi8RhQp
+Di6kLuLBhBsDAVQNggiSKNYxM2QdmAhhbJg6kxVJNoGiqCaVFNUADCDDlDVIiQIB
+FkUuJULLQjbPoPJKARC5BIdW2CXUyx6xirh1ESGwQAAIa4yY0NAREGUsQ68apovA
+NKEuycgESFIxlDVVZRRhJmOiiJQhYhpYZKYqMuHlqJfNqbDwXXKvV/c8CLnFdmgR
+5idoUoi6XFbYsV0b26X8tth1w5GAZ467KOzBX6Nm8G+ioGmFCH8tPKKCOhHLDvFS
+OPLfvkmS4hdoZdhyaNDyEIqm6iIfXh5awSkVkXeGN1KVKSbIkDQgIoWvgYFkxpgi
+awqC/BVIGBBN1BUJqTKRFNNkTDWgpP5jJARcJyrinNy9EHLLHSpEj35aMMAXk+iL
+j7vP+0a+xEHJ9z7X5s5kX1tudeO0rllu6uy0HVtnFg66cfWN4tsFNQevtfxUL18Z
+2d26pyfvQPbqtMTUnW2t06LZgYmmnX9ke8/yZSA1c+WJiVpdTMeW7+Mfu5H0Zkp9
+mnbynf4ZNfXHcss21O1+STsdO2Tx2oc2JWT/8F3tqderAxmJ0On64NDFzltuRXFN
+WMy4f+zQeRcHJ/Z3nflifdOwkekll8QNs80jj/RdG15ZGW89OuAUlNfeXHu9cE9X
+5n6SvbR/sP/3z1TAnp9/fOv8tqltmWkdLZumTC+Lzgw0vjp8x+jx9i5n9+29TUti
+Z1WXJujLrca6/I7Pg+nN22FXZfILva3d3yxrHTKi59fr9uH5o15c0rM/U3xuZdzO
+ueea7xzrfH/MiLwvo8LxIZvmnC4PVuevL6gK1Vbe/PD6qMU+EGppWDDmyrhhF/ad
+2BfIa4jGt+Y0T56wJKXtk3MN29rL6g5cfiXlsHx2Qv63Z97+bcvmpavfvdM39cFd
+7b7mrLzawks5Y1YWjv5j45NvRa4M2AifGNnnzC7b7c867TzwcSC9Wds8uSo44sca
+taO3dx2Zcen8HDc2rWjVs7WDTjGjrP3C5Mvn19yuLZqXDjNTB2aVrG9u6vloW9/N
+W91fK2OfGdc99Kvtc8e1j+rbv68h42DKqvDhvCn+lAyQlbPm8XVPrUgenDu+PumX
+FdV759gPn+xMGFgA/P1JgbircauXT/8TGD/3Jw==
+=QbRG
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/acoastalfog
+
+==================================================================
+
