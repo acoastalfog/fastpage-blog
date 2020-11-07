@@ -8,7 +8,7 @@ I'm interested in needs-driven healthcare technology innovation. I've married my
 
 I serve as the Director of [Sinai BioDesign](http://sinaibio.design) where we implement a needs-driven approach to technology innovation within the Mount Sinai Health System. We focus on early-stage medical device and software development, working directly with physicains and researchers to turn their needs and ideas into commercially-viable inventions. While our home is the [Department of Neurosurgery](https://icahn.mssm.edu/about/departments/neurosurgery), we work system-wide on a large portfolio of medical technologies. Importantly, we support the culture of innovation at Mount Sinai with the graduate and medical schools through biodesign fellowships, curricula, and student mentorship.
 
-I serve as COO at [AISINAI](http://aisinai.org), a research group made up of faculty, physicians, trainees, and students, dedicated to improving medicine through advancements in machine intelligence. I am privileged to work with Director [Eric K. Oermann](https://twitter.com/ekoermann) and our entire team as we strive to:
+I also serve as Co-Director at [AISINAI](http://aisinai.org), a research group made up of faculty, physicians, trainees, and students, dedicated to improving medicine through advancements in machine intelligence. I am privileged to work with Co-Director [Eric K. Oermann](https://twitter.com/ekoermann), who has now moved to [NYU Langone](https://med.nyu.edu/), and our entire team as we strive to:
 
 * Understand the basis of intelligence -- both artificial and human,
 * Make healthcare safer, smarter, and more efficient, and
